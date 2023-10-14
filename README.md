@@ -29,4 +29,4 @@ chmod 700 *
 1. Stop the server 
 ```Ctrl+C```
 1. Optionally 
-```./kms_server_clear_script.sh```
+```./kms_server_clean_script.sh```
