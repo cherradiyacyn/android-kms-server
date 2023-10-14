@@ -20,12 +20,12 @@ chmod 700 *
 ./kms_server_setup_script.sh
 ./kms_server_start_script.sh
 ```
-# on Windows
+## on Windows
 1. Right-click "activation_file" > choose Edit > replace 127.0.0.1 with the IP address
 1. Right-click "activation_file" > Run As Administrator
 1. Wait...
 
-# back to Termux
+## back to Termux
 1. Stop the server 
 ```Ctrl+C```
 1. Optionally 
