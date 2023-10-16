@@ -1,8 +1,4 @@
-# android_kms_server
-Helpful scripts for MS products activation using Termux
-
-## don't forget !
-The _phone_ and the _computer_ __both__ must be __connected__ to the __same network__.
+# User's Instructions
 
 ## on Android
 1. [Install F-droid](https://f-droid.org/en/)
@@ -33,3 +29,6 @@ chmod 700 *
 ```Ctrl+C```
 1. Optionally 
 ```./kms_server_clean_script.sh```
+
+## don't forget !
+The _phone_ and the _computer_ __both__ must be __connected__ to the __same network__.
