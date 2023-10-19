@@ -20,8 +20,8 @@ chmod 700 *
 ./kms_server_start_script.sh
 ```
 ## on Windows
-1. Right-click "activation_file" > choose Edit > replace 127.0.0.1 with __the IP address__
-1. Right-click "activation_file" > Run As Administrator
+1. Right-click "activation_script" > choose Edit > replace 127.0.0.1 with __the IP address__
+1. Right-click "activation_script" > Run As Administrator
 1. Wait... Until the product is __activated successfully__
 
 ## back to Termux
