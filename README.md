@@ -31,4 +31,5 @@ chmod 700 *
 ```./kms_server_clean_script.sh```
 
 ## don't forget !
-The _phone_ and the _computer_ __both__ must be __connected__ to the __same network__.
+1. The _phone_ and the _computer_ __both__ must be __connected__ to the __same network__.
+2. The keys used in the activation_scripts are those I need : __Windows 10 Professional & Office 2016 Standard__. You can get the keys for other products here [wind4.github.io/vlmcsd/](http://wind4.github.io/vlmcsd/)
